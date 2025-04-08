@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.steevenengracia</groupId>
-	<artifactId>template-modular-monolith</artifactId>
+	<artifactId>template-modular-monolith-with-Springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>template-springboot</name>
 	<description>Demo project for Spring Boot</description>
